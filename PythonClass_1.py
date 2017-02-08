@@ -1,17 +1,13 @@
-# 3.2.2017 STUDENTS QUALITY COUNCIL PYTHON CLASS DAY1
+# 3.2.2017(Tues) STUDENTS QUALITY COUNCIL PYTHON CLASS DAY1
 
 '''
 Python 2.7
-
 Basics of PICOK --- > Punctuators Identifiers Constants Operators Keywords
-
 Keywords_in_python=['and', 'as', 'assert', 'break', 'class', 'continue', 'def', 'del', 'elif', 'else', 'except', 'exec', 'finally', 'for', 'from', 'global', 'if', 'import', 'in', 'is', 'lambda', 'not', 'or', 'pass', 'print', 'raise', 'return', 'try', 'while', 'with', 'yield']
-
 Functions and its types were discussed. (User-defined, built-in, methods)
 Introduced to lists.
 Some basic operations on lists and conditionals.
-Lists memory spacing was discussed.
-
+Lists memory spacing.
 '''
 
 a=[1,2,3]
@@ -42,4 +38,4 @@ print "To stop that behaviour c should be created as c=[]+a"
 a.remove(300)
 print "After removing 300 a is..",a
 
-# End of Day1
+# End.
